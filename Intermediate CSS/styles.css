@@ -1,0 +1,29 @@
+h1{
+	width: 50%;
+	margin: 0 auto;
+	font-size: 25px;
+	text-align: center;
+}
+
+table{
+	margin: 10px auto;
+}
+
+tr{
+	margin: 0;
+	padding: 0px;
+}
+
+td {
+	padding: 50px;
+}
+
+.horizontal{
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.vertical{
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
