@@ -18,6 +18,7 @@ h1 {
 
 button {
     border: none;
+    outline: none;
     background-color: none;
     text-transform: uppercase;
     height: 100%;
